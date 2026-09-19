@@ -1,0 +1,12 @@
+{
+  "name": "Remix Remix مُعِيني AI",
+  "description": "المنصة الذكية الموحدة لتمكين وتسهيل خدمات وحقوق وفرص ذوي الإعاقة في المملكة العربية السعودية",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
